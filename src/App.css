@@ -698,7 +698,7 @@ footer span {
 @media (max-width: 700px) {
   header > .nav-items {
     position: absolute;
-    top:53px;
+    top:67px;
     display: flex;
     flex-direction: column;
     background: #04bede;
