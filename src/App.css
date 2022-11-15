@@ -76,10 +76,10 @@ width: 100%;
   z-index: 5;
 }
 .content .static-text .name {
-  font-size: 5rem;
+  font-size: 180%;
   text-align: center;
   font-weight: 400;
-  
+  margin-bottom: 2%;
 }
 
 .home_container .content .static-text {
@@ -92,7 +92,7 @@ width: 100%;
 
 .typing p {
   text-align: center;
-  font-size: 50px;
+  font-size: 150%;
   letter-spacing: -1px;
   font-weight: 400;
   color: #04bede;
@@ -453,7 +453,7 @@ margin: auto;
 
 .projects {
   margin: 0 auto;
-  width: 80%;
+  width: 100%;
 }
 .projects-header .head {
   text-align: center;
@@ -469,8 +469,8 @@ margin: auto;
   padding: 1%;
   margin-right: 3%;
   width: 30%;
-
-  height: 30%;
+border:2px solid red;
+  /* height: 30%; */
 
 }
 .project-boxes h1 {
@@ -486,6 +486,8 @@ margin: auto;
 }
 .projects .links {
   display: flex;
+  flex-wrap: wrap;
+ 
 }
 .projects .links button {
   margin-right: 3%;
@@ -494,6 +496,10 @@ margin: auto;
   padding-right: 9px;
   padding-left: 9px;
   border-radius: 3px;
+  margin-top: 2%;
+}
+.links button span{
+  font-size: 90%;
 }
 .view {
   position: relative;
