@@ -413,9 +413,8 @@ padding-bottom: 3%;
 
 .portfolio .project-display {
 
-  margin: 0 auto;
-
-  width: 90%;
+margin: 03% auto;
+width: 70%;
 height: 450px;
 }
 .project-display .mac-book {
@@ -538,7 +537,6 @@ border:2px solid red;
 }
 .contact-container {
   width: 100%;
-
   background-color: rgb(104, 106, 232);
 
 }
