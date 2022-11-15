@@ -95,10 +95,10 @@ const SkillsAndTools = () => {
         </div>
         <div className="icons">
           <div className="icon_items">
-            <h1>
-              <SiHtml5 />{" "}
-            </h1>
-            <p>HTML5</p>
+            
+          <h1><SiHtml5 /> </h1>
+         
+           <p> HTML5</p> 
           </div>
           <div className="icon_items">
             <h1>
