@@ -17,9 +17,7 @@ const Portfolio = () => {
         </p>
       </div>
       <div className="project-display">
-<div className="mac-book"> </div>
-     
-
+        <div className="mac-book"> </div>
       </div>
 
       <div className="projects">
@@ -73,7 +71,6 @@ const Portfolio = () => {
               <p>
                 For when you need a break from your partner but already got a
                 babysitter. Now couples can go to different events in similar
-               
               </p>
 
               <div className="tools">
@@ -94,10 +91,24 @@ const Portfolio = () => {
                 </h2>
               </div>
               <div className="links">
-                <button className="view"> <a href="https://dazzling-malasada-36d21a.netlify.app/" target="_blank">
-                  <span> View it here </span></a>
+                <button className="view">
+                  {" "}
+                  <a
+                    href="https://dazzling-malasada-36d21a.netlify.app/"
+                    target="_blank"
+                  >
+                    <span> View it here </span>
+                  </a>
                 </button>
-                <button className="github"><a href="https://github.com/Wais000/Weather-app" target="_blank"> View Github Rep</a></button>
+                <button className="github">
+                  <a
+                    href="https://github.com/Wais000/Weather-app"
+                    target="_blank"
+                  >
+                  <span> View Github Rep</span>
+                    
+                  </a>
+                </button>
               </div>
             </div>
 
@@ -106,7 +117,6 @@ const Portfolio = () => {
               <p>
                 For when you need a break from your partner but already got a
                 babysitter. Now couples can go to different events in similar
-                
               </p>
 
               <div className="tools">
@@ -127,8 +137,26 @@ const Portfolio = () => {
                 </h2>
               </div>
               <div className="links">
-                <button className="view"> <a href="https://to-do-app-snowy-nu.vercel.app/" target="_blank"> <span> View it here</span></a> </button>
-                <button className="github">  <a href="https://github.com/Wais000/to-do-app" target="_blank"> <span>View Github Rep</span></a> </button>
+                <button className="view">
+                  {" "}
+                  <a
+                    href="https://to-do-app-snowy-nu.vercel.app/"
+                    target="_blank"
+                  >
+                    {" "}
+                    <span> View it here</span>
+                  </a>{" "}
+                </button>
+                <button className="github">
+                  {" "}
+                  <a
+                    href="https://github.com/Wais000/to-do-app"
+                    target="_blank"
+                  >
+                    {" "}
+                    <span>View Github Rep</span>
+                  </a>{" "}
+                </button>
               </div>
             </div>
           </div>
