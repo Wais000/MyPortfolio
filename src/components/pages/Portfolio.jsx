@@ -27,7 +27,7 @@ const Portfolio = () => {
           <h1 className="head">A Selection Of Stuff I've Built</h1>
           <div className="dis-flex">
             <div className="project-boxes">
-              <h1>Food Recipes</h1>
+              <p className="pro-name">Food Recipes</p>
               <p>
                 it is hard to keep your culinary game fresh if you lack new
                 ideas and always prepare the same old dish that you inherited
@@ -69,7 +69,7 @@ const Portfolio = () => {
               </div>
             </div>
             <div className="project-boxes">
-              <h1>Weather App</h1>
+              <p className="pro-name">Weather App</p>
               <p>
                 For when you need a break from your partner but already got a
                 babysitter. Now couples can go to different events in similar
@@ -102,7 +102,7 @@ const Portfolio = () => {
             </div>
 
             <div className="project-boxes">
-              <h1>TO DO List</h1>
+              <p className="pro-name">TO DO List</p>
               <p>
                 For when you need a break from your partner but already got a
                 babysitter. Now couples can go to different events in similar
