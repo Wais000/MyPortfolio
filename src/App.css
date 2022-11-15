@@ -415,7 +415,8 @@ padding-bottom: 3%;
 
 margin: 03% auto;
 width: 100%;
-height: 450px;
+height: 380px;
+border: 2px solid red;
 }
 .project-display .mac-book {
   background-image: url("./pictures/Macbook.svg");
@@ -424,7 +425,7 @@ height: 450px;
   background-repeat: no-repeat; 
 margin: auto;
   width: 100%;
-  height:80%;
+  height:100%;
 
   /* padding-top: 10px; */
   animation: laptops 10s infinite alternate-reverse;
