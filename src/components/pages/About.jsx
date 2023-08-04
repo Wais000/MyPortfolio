@@ -19,18 +19,8 @@ const About = () => {
             a fullstack Web developer living in Hamburg, Germany.
           </p>
           <p className="details">
-            Wais Nazari is a junior full stack web developer with over 5 years
-            of Experience as freelancer Graphic designer and working in a
-            Telecommunication Company as graphic designer and marcom Manager
-            (Marketing Communication Manager).
-            <br /> Well-organised person, problem solver and with high attention
-            to detail. <br />
-            His graphic design background informs ideation to design and
-            developing through to implementation.
-            <br /> He can plan, design, build, launch, and maintain a website
-            Interested in the entire web development spectrum and working on
-            ambitious projects with positive people. He is a fan of fishing,
-            gardening football playing and etc...
+          Hello! I'm Wais Nazari, a passionate and versatile full-stack web developer with expertise in the MERN stack. My skills span a broad spectrum of technologies, including React, HTML5, CSS3, JavaScript, jQuery, Sass, Bootstrap, Node.js, and MongoDB. Additionally, I have experience in AI and version control using Github, along with proficiency in WordPress for creating dynamic websites. My creativity extends beyond coding; I am well-versed in graphic design, working with tools like Figma, Canva, Photoshop, Illustrator, and InDesign to craft captivating UI and UX designs. Having delved into the world of web development and graphic design, I have the perfect blend of skills to create seamless and visually appealing user experiences. I am eager to collaborate on exciting projects that leverage my diverse skill set, and I am committed to continuous learning to stay at the cutting edge of technology. Let's connect and explore potential opportunities to create extraordinary digital experiences together!
+
           </p>
         </div>
        
