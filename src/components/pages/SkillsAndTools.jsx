@@ -8,9 +8,19 @@ import {
   SiGithub,
   SiMongodb,
   SiGnubash,
+  SiBootstrap,
+  SiJquery,
+  SiNodedotjs,
+  SiAdobeillustrator,
+  SiCanva,
+  SiAdobephotoshop,
+  SiAdobeindesign,
+  SiProbot,
+  SiMicrosoftoffice,
 } from "react-icons/si";
 import { DiSass } from "react-icons/di";
 import { VscAzure } from "react-icons/vsc";
+import { FaWordpress, FaFigma } from "react-icons/fa";
 // import {MdDevicesOther} from "react-icons/md"
 
 const SkillsAndTools = () => {
@@ -116,7 +126,7 @@ const SkillsAndTools = () => {
             <h1>
               <SiReact />{" "}
             </h1>
-            <p>SiReact</p>
+            <p>React</p>
           </div>
           <div className="icon_items">
             <h1>
@@ -144,9 +154,42 @@ const SkillsAndTools = () => {
           </div>
           <div className="icon_items">
             <h1>
-              <VscAzure />{" "}
+              <SiBootstrap />{" "}
             </h1>
-            <p>VS Code</p>
+            <p>Bootstrap</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiJquery />{" "}
+            </h1>
+            <p>jQuery</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiNodedotjs />{" "}
+            </h1>
+            <p>Node.js</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiMongodb />{" "}
+            </h1>
+            <p>Mongoose</p>
+          </div>
+          <div className="icon_items">
+            <h1>
+              <FaWordpress />{" "}
+            </h1>
+            <p>Wordpress</p>
+          </div>
+          <div className="icon_items">
+            <h1>
+              <FaFigma />{" "}
+            </h1>
+            <p>Figma</p>
           </div>
           {/*     <div className="icon_items">
             <h1><MdDevicesOther/> </h1>
@@ -154,10 +197,46 @@ const SkillsAndTools = () => {
           </div> */}
           <div className="icon_items">
             <h1>
-              <SiAdobe />{" "}
+              <SiCanva />{" "}
             </h1>
-            <p>Adobe Suite</p>
+            <p>Canva</p>
           </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiAdobeillustrator />{" "}
+            </h1>
+            <p>Illustrator</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiAdobephotoshop />{" "}
+            </h1>
+            <p>photoshop</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiAdobeindesign />{" "}
+            </h1>
+            <p>Indesign</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiProbot />{" "}
+            </h1>
+            <p>AI</p>
+          </div>
+
+          <div className="icon_items">
+            <h1>
+              <SiMicrosoftoffice />{" "}
+            </h1>
+            <p>Ms.Office</p>
+          </div>
+
         </div>
       </div>
     </div>
