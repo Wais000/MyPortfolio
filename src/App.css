@@ -523,7 +523,7 @@ header .logo {
 .contact-container {
   width: 100%;
   background-color: #003459;
-  border: 2px solid red;
+
 }
 
 .contact-boxes {
@@ -532,7 +532,6 @@ header .logo {
   width: 70%;
   padding-left: 3%;
 
-  border: 2px solid red;
 }
 .contact-text {
 display: flex;
@@ -541,7 +540,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
   width: 40%;
-border: 2px solid red;
+
   /* height: 40vh; */
 }
 .contact-text p {
